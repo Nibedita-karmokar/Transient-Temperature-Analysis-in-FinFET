@@ -29,7 +29,36 @@
         "unit_height_res": 600,
 	"Fin_pitch": 42,
 	"max_size_cap": 1000
-    },
+    	},
+    "thermal_conductivity":{
+	"gate": 197e-9,
+	"Si NMOS SD": 148e-09,
+	"Si PMOS SD": 114e-9,
+	"Si substrate": 148e-09,
+	"SiGe PMOS channel": 12.75e-9,
+	"Si NMOS channel": 14.7e-9,
+	"Si PMOS fin": 18e-9,
+	"Si NMOS fin": 20e-9,
+	"SiO2": 0.8e-9,
+	"spacer": 30e-9,
+	"contact": 385e-9
+	},
+	
+    "heat_capacity":
+	{
+	"gate": 500,
+	"Si": 700,
+	"SiO2": 1000,
+	"contact": 320
+	},
+	
+    "density":
+	{
+	"gate": 1200,
+	"Si": 2330,
+	"SiO2": 2650,
+	"contact": 5323
+	},
     "Abstraction": [
         {
             "Layer": "Poly",
