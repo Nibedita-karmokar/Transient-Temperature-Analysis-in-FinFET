@@ -15,17 +15,17 @@ The framework enables transient thermal analysis of FinFET-based circuits by mod
 ## Repository Structure
 
 Transient-Temperature-Analysis-in-FinFET/
-Main.py                     # Main execution script
-
-Temperature_Analysis.py     # Thermal analysis engine
-
-Thermal_Model.py            # Thermal modeling utilities
-
-Input                       # Example input data
-
-Output                      # Generated results
-
-README.md
+  Main.py                     # Main execution script
+  
+  Temperature_Analysis.py     # Thermal analysis engine
+  
+  Thermal_Model.py            # Thermal modeling utilities
+  
+  Input                       # Example input data
+  
+  Output                      # Generated results
+  
+  README.md
 
 
 ## Requirements
