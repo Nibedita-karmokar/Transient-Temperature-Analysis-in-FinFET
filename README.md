@@ -21,9 +21,9 @@ Temperature_Analysis.py     # Thermal analysis engine
 
 Thermal_Model.py            # Thermal modeling utilities
 
-Input/                      # Example input data
+Input                       # Example input data
 
-Output/                     # Generated results
+Output                      # Generated results
 
 README.md
 
@@ -116,12 +116,7 @@ The framework captures the temporal evolution of device temperatures under dynam
 ---
 
 ## Citation
-
 If you use this code in academic work, please cite:
 
-```text
-N. Karmokar, M. Madhusudan, R. Harjani, and Sachin S. Sapatnekar,
-"Transient Temperature Analysis in FinFET Circuits,"
-Proceedings of the ACM/IEEE International Symposium
-on Low Power Electronics and Design (ISLPED), 2024.
-```
+N. Karmokar, M. Madhusudan, R. Harjani, and Sachin S. Sapatnekar, "Transient Temperature Analysis in FinFET Circuits,"Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024.
+
