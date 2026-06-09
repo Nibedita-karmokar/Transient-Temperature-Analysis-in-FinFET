@@ -40,7 +40,15 @@ pip install numpy scipy matplotlib pandas
 ## Running the Tool
 
 ```bash
-python Main.py
+python FDM_Main.py
+```
+
+Run the main file from termianl: main(json_file, finger_count, duty_cycle, current_per_fin). 
+
+### Example Command
+
+```bash
+main(layers.json, 64, 0.5, 50*10**(-6))
 ```
 
 The tool reads the circuit and power information, performs transient thermal analysis, and generates temperature profiles over time.
