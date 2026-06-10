@@ -42,6 +42,9 @@ pip install numpy scipy matplotlib
 ## Running the Tool
 
 Launch Python and execute:
+```bash
+python FDM_main.py
+```
 
 ```python
 main(layers.json, finger_count, duty_cycle, current_per_fin)
