@@ -9,6 +9,7 @@ This repository contains a finite-difference-based framework for transient therm
 The implementation models heat generation and propagation through FinFET devices and surrounding materials using a 3D thermal RC network derived from the physical layout and technology stack. The framework enables efficient estimation of transient temperature profiles under dynamic operating conditions without requiring computationally expensive full-device simulations.
 
 This work accompanies:
+
 **Nibedita Karmokar, Sai-Wang Tam, Thanh Viet Dinh, Vidya A. Chhabria, Ramesh Harjani, and Sachin S. Sapatnekar,** *“Analyzing the Impact of FinFET Self-Heating on the Performance of RF Power Amplifiers”*, in Proc. International Conference on Computer-Aided Design, IEEE, 2024
 
 ---
@@ -166,6 +167,5 @@ Thermal analysis engine responsible for:
 
 If you use this software in academic work, please cite:
 
-```text
 **Nibedita Karmokar, Sai-Wang Tam, Thanh Viet Dinh, Vidya A. Chhabria, Ramesh Harjani, and Sachin S. Sapatnekar,** *“Analyzing the Impact of FinFET Self-Heating on the Performance of RF Power Amplifiers”*, in Proc. International Conference on Computer-Aided Design, IEEE, 2024
-```
+
