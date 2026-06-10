@@ -43,7 +43,7 @@ pip install numpy scipy matplotlib
 
 Launch Python and execute:
 ```bash
-python FDM_main.py
+python FDM_Main.py
 ```
 
 ```python
